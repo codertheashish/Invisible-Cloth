@@ -103,5 +103,12 @@ Press **Q** to quit.
 
 **Ashish Kumar Prajapati**
 
+- GitHub:
+[codertheashish](https://github.com/codertheashish)
+- Linkedin :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
+
 ---
 <img width="601" height="437" alt="Invisible_cloak" src="https://github.com/user-attachments/assets/6414a138-8f32-4ef6-85d8-4113e925042c" />
