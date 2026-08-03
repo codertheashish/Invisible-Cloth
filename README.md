@@ -5,12 +5,6 @@ This project detects a specific cloth color (teal/blue) and replaces it with the
 
 ---
 
-## 📷 Invisible Cloak Effect
-
-This tool uses your webcam to detect a colored cloth and replaces that region with a pre-captured background image.
-
----
-
 ## 🚀 Features
 
 ✅ Real-time webcam processing
